@@ -1,0 +1,8 @@
+{
+  "name": "cambios Dra. Amparo Peña - Odontología Integral",
+  "description": "Landing page de odontología integral en Zapopan para la Dra. Amparo Peña Martín del Campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
